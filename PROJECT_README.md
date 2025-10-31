@@ -46,7 +46,8 @@ Special thanks to open-source libraries and UI inspirations from modern web desi
 Live Demo
 
 When you enable GitHub Pages for this project, your live link will be:
-https://Prasanna-0007.github.io/btech-cgpa-calculator](https://prasanna-0007.github.io/B.Tech-CGPA-Calculator-Web-Application-/)
+[https://Prasanna-0007.github.io/btech-cgpa-calculator](https://prasanna-0007.github.io/B.Tech-CGPA-Calculator-Web-Application-/)](https://prasanna-0007.github.io/B.Tech-CGPA-Calculator-Web-Application-/)
+
 Repository Link
 
 🔗 https://github.com/Prasanna-0007/btech-cgpa-calculator
