@@ -28,10 +28,6 @@ Click “Calculate CGPA” to see the results.
 View your CGPA, equivalent percentage, GPA Trend Chart, Semester summary table.
 Click “Export as PDF” to download a detailed report with the CGPA, Equivalent Percentage, Semester summary table.
 
-Preview
-
-![CGPA Calculator Screenshot](Screenshot2.png)
-
 Future Enhancements
 
 Save data automatically using Local Storage
