@@ -50,4 +50,4 @@ When you enable GitHub Pages for this project, your live link will be:
 
 Repository Link
 
-🔗 https://github.com/Prasanna-0007/btech-cgpa-calculator
+🔗 [https://github.com/Prasanna-0007/btech-cgpa-calculator](https://github.com/Prasanna-0007/B.Tech-CGPA-Calculator-Web-Application-)
